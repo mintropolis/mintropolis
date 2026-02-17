@@ -1,0 +1,9 @@
+[package]
+name = "mintropolis"
+version = "0.0.1"
+edition = "2024"
+description = "Where Agents Become Citizens"
+license = "MIT"
+repository = "https://github.com/mintropolis/mintropolis"
+
+[dependencies]
